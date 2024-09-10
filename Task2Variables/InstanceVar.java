@@ -1,5 +1,9 @@
 package Task2Variables;
 
+//Instance variables are variables declared within the body of a class but outside of any method or constructor.
+//They belong to individual objects of that class and hold data specific to each instance.
+//Purpose: They store data that characterizes or describes the state of an object.
+
 public class InstanceVar {
 
     String Name; //instance variable or non-static fields
