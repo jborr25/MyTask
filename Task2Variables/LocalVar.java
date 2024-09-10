@@ -11,7 +11,11 @@ public class LocalVar {
 
         System.out.println("x = " + x);
         System.out.println("name = " + name);
-    }
-}
 //x and name are local variables declared within the myMethod() method. 
-//They can only be accessed within that method and will not be accessible outside of it.
+//They can only be accessed within that method and will not be accessible outside of it
+    }
+public static void main(String[] args) {
+    LocalVar Sample = new LocalVar();
+    Sample.myMethod();
+}
+}
