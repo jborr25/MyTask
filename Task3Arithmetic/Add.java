@@ -8,5 +8,5 @@ public static void main(String[] args) {
 System.out.println("Sum: "+ Sum);
 System.out.println("Difference: "+ Difference);
 
-}
+    }
 }
