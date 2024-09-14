@@ -12,3 +12,7 @@ public class Conditional {
             System.out.println("value1 is 1 OR value2 is 1");
     }
 }
+/*
+ * The && and || operators perform Conditional-AND and Conditional-OR operations on two boolean expressions. 
+ * These operators exhibit "short-circuiting" behavior, which means that the second operand is evaluated only if needed.
+ */
