@@ -1,4 +1,4 @@
-
+package Task6Statements;
 
 public class IfSample {
     public static void main(String[] args) {
