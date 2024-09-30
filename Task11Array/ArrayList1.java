@@ -6,7 +6,7 @@ public class ArrayList1 {
         colors.add("red");
         colors.add("green");
         colors.add(23);
-        System.out.println(colors.add("blue"));
+        //System.out.println(colors.add("blue"));
         System.out.println(colors);
         // colors.add(input.nextLine());
 
